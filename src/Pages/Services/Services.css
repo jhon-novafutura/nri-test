@@ -1,0 +1,42 @@
+.cardServ{
+    background-color: #293953;
+    height: 320px;
+}
+
+.cardServ2{
+    background-color: #ffffff;
+    height: 320px;
+   
+}
+
+.cardServ2 p{
+    color: #293953;
+}
+
+h2{
+
+    font-size: 36px;
+        line-height: 40px; /* 118.519% */
+        letter-spacing: 1.374px;
+    
+    }
+
+    .h2b{
+
+        color: #fff;
+        font-size: 36px;
+        line-height: 40px; /* 118.519% */
+        letter-spacing: 1.374px;
+        
+        }
+
+    .h5s{
+        color: #293953;
+    }
+
+    .h5s2{
+        color: #293953;
+    }
+    
+
+

@@ -1,0 +1,36 @@
+.line{
+    background-color:  #293953;
+    max-width: 128px;
+}
+
+.card1b{
+    height:350px;
+  }
+
+  h3{
+    color: #0D1C2E;
+    font-weight: 700;
+    text-align: center;
+    font-size: 26px;
+    font-style: normal;
+    line-height: 30.619px; 
+    /* 160% */
+    }
+    .ult{
+      font-size: 52px;
+
+    }
+    .app{
+      font-size: 24px;
+    }
+
+    .capaapp{
+      font-size: 20px;
+      text-align: left;
+    }
+
+    .capaap{
+      font-size: 36px;
+      text-align: left;
+      line-height: 38.619px; 
+    }

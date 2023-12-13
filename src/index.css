@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+*{
+  font-family: 'Montserrat', sans-serif;
+}
+
+body {
+  font-family: Montserrat, ;
+  font-stretch: expanded;
+  max-width: auto;
+  margin: auto;
+  
+}
+
+.cardf{
+  background-color: #293953;
+}
+
+.p{
+  color: #293953;
+  border-bottom:#1C6C9D 1px solid;
+}
+
+.navf{
+  color: #293953;
+font-size: 14px;
+font-weight: 700;
+line-height: 16px; /* 160% */
+
+
+}
+
+.navf a:hover {
+
+  color: #25A7DB;
+}
+
+@media screen and (max-width: 500px)  {
+  
+  h1{
+        font-size: 48px;
+      }
+      .mr-44 {
+        margin-right: 0rem !important;
+    }
+  }

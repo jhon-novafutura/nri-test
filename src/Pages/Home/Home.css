@@ -1,0 +1,206 @@
+.nav{
+color: #293953;
+font-size: 10px;
+font-weight: 700;
+line-height: 16px; /* 160% */
+letter-spacing: 2px;
+text-transform: uppercase;
+}
+
+.nav a:hover {
+ 
+  color: #25A7DB;
+}
+.ss1{
+  height: 800px;
+  background-image: url(../../../public/nri/ss1-background.png);
+}
+
+.ss1 h1{
+  color: #293953;
+
+font-size: 60px;
+font-style: normal;
+
+line-height: 70px; /* 118.519% */
+letter-spacing: 1.374px;
+}
+.btn-forms{
+  background-color: #1C6C9D;
+  
+}
+
+.capaapp{
+
+color: #000;
+background-color: transparent;
+font-size: 14.985px;
+font-style: normal;
+font-weight: 500;
+line-height: 23.976px; /* 160% */
+}
+
+h5{
+
+  color: #1C6C9D;
+  background-color: transparent;
+  font-size: 14.985px;
+  font-style: normal;
+
+  line-height: 23.976px; /* 160% */
+  }
+  .h5{
+
+    color: #293953;
+    background-color: transparent;
+    font-size: 14.985px;
+    font-style: normal;
+  
+    line-height: 23.976px; /* 160% */
+    }
+    .h5p{
+
+      color: #AACBDE;
+      background-color: transparent;
+      font-size: 14.985px;
+      font-style: normal;
+    
+      line-height: 23.976px; /* 160% */
+      }
+.h2{
+
+color: #293953;
+font-size: 67.431px;
+line-height: 79.918px; /* 118.519% */
+letter-spacing: 1.374px;
+
+}
+@media screen and (max-width: 500px)  {
+.h2{
+    font-size: 32px; 
+    line-height: 42px;
+    }
+    .ss1 h1{
+      font-size: 48px;
+      line-height: 48px; /* 118.519% */
+letter-spacing: 1.374px;
+    }
+.cards {
+      height: auto !important; 
+  }
+
+  .capaapp{
+
+   
+    font-size: 13px !important;
+    /* 160% */
+    }
+    
+}
+
+.textss2{
+  color: #293953;
+
+font-size: 43.194px;
+font-style: normal;
+
+line-height: 43.194px;
+}
+
+.h3{
+  color: #293953;
+}
+
+.h3g{
+color:  #1C6C9D;
+text-align: center;
+font-size: 26px;
+font-style: normal;
+line-height: 30.619px; 
+/*
+ 160% */
+}
+.card2 h3 {
+color: #293953;
+text-align: center;
+
+font-size: 20px;
+font-style: normal;
+
+line-height: 30.619px; /* 160% */
+}
+
+.cardss2{
+  color: #293953;
+text-align: center;
+
+font-size: 14px;
+font-style: normal;
+
+line-height: 20.413px; /* 160% */
+}
+
+.card{
+  border-color: #1C6C9D;
+  
+}
+.card1{
+  height: 430px;
+}
+.cardw{
+  border-color: #FFF;
+  
+}
+
+.cards{
+ height: 580px;
+  
+}
+
+.card2{
+  border-color: #293953;
+  background: #FFF;
+}
+
+.ss3{
+  background-color: #293953;
+}
+
+.card3{
+  
+  background: #293953
+}
+
+.bnt-p{
+background: #222f45;
+}
+
+.ss4{
+  background-image: url(../../../public/nri/ss4.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.ss8{
+  background-image: url(../../../public/nri/ss8.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.pc{
+  color:  #293953;
+
+}
+
+.img {
+  margin-left: -5px;
+
+}
+.imgcap {
+  margin-left: -5px;
+  width: 742px;
+}
+
+.over{
+  font-size: 28px;
+}
