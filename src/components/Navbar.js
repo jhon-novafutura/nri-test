@@ -28,7 +28,7 @@ export function Navbar() {
                   SERVICES
                 </p>
                 <p className="font-bold px-4 py-2 text-xs" onClick={() => navigate('/contact')}>
-                  CONTACT
+                  CONTACTS
                 </p>
               </div>
             </div>
